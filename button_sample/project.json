@@ -1,0 +1,12 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+      "resource.js",
+      "src/custom-sprite.js",
+      "src/custom-button.js",
+      "src/main-scene.js"
+    ]
+}
