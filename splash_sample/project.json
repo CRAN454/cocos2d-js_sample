@@ -1,0 +1,11 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+      "resource.js",
+      "src/splash-data.js",
+      "src/main-scene.js"
+    ]
+}
